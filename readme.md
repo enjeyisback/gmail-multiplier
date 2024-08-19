@@ -34,7 +34,7 @@ Gmail Multiplier is a web-based tool that generates multiple variations of a Gma
 
 2. Open a web browser and navigate to `http://localhost:8000`
 
-3. Enter a Gmail address (without the @gmail.com part) and the number of variations you want to generate.
+3. Enter a Gmail address and the number of variations you want to generate.
 
 4. Click "Generate" to create email variations and aliases.
 
