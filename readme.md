@@ -9,10 +9,6 @@ Gmail Multiplier is a web-based tool that generates multiple variations of a Gma
 - Copy individual email addresses or all generated addresses at once
 - Responsive design for desktop and mobile use
 
-## Demo
-
-[Add a link to your live demo if available]
-
 ## Installation
 
 1. Clone the repository:
